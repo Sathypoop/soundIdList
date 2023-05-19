@@ -1,0 +1,12 @@
+<div class="grid-container">
+  <div class="grid-item">
+    <div class="id-box bold underline">Sound Id</div>
+    <div class="name-box bold underline">Sound Name</div>
+    <div class="file-box bold underline">Audio</div>
+  </div>
+  <div *ngFor="let soundItem of soundItems" class="grid-item">
+    <div class="id-box">{{ soundItem.id }}</div>
+    <div class="name-box">{{ soundItem.name }}</div>
+    <div class="file-box" (click)="playSound(soundItem.file)">Click me!</div>
+  </div>
+</div>

@@ -1,0 +1,36 @@
+.grid-container {
+    display: flex;
+    grid-gap: 10px;
+    flex-direction: column;
+    flex-wrap: nowrap;
+    align-items: center;
+}
+
+.grid-item {
+  background-color: #616161;
+  padding: 10px;
+  display: grid;
+  justify-content: space-between;
+  grid-template-columns: 25% 35% 40%;
+  width: 550px;
+  align-items: center;
+  border: 1px solid;
+}
+
+.id-box {
+  font-weight: bold;
+}
+
+.name-box {
+}
+
+.file-box {
+}
+
+.bold{
+  font-weight: bold;
+}
+
+.underline {
+  text-decoration: underline;
+}

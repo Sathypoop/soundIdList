@@ -1,1 +1,14 @@
 /* You can add global styles to this file, and also import other style files */
+
+@font-face {
+  font-family: 'Cadman';
+  src: url('./assets/Cadman_Roman-webfont.woff') format('woff'),
+}
+
+body{
+  background-color: #181818;
+  color: #f0e7d5;
+  font-family: "Source Sans Pro",Helvetica,Arial,sans-serif;
+  font-size: 1.25em;
+  word-wrap: break-word;
+}
