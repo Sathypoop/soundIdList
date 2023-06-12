@@ -1,17 +1,517 @@
 [
   {
       "id": 1,
-      "name": "Weeee",
-      "file": "./assets/sounds/Weee.ogg"
+      "name": "Aaaaaahhhh Boom",
+      "file": "./assets/sounds/ahhhhhhboom.ogg"
   },
   {
-      "id": 2,
+      "id": 53,
+      "name": "All Is Lost",
+      "file": "./assets/sounds/AllIsLost.ogg"
+  },
+  {
+      "id": 112,
+      "name": "And Thats it",
+      "file": "./assets/sounds/AndThatsIt.ogg"
+  },
+  {
+      "id": 11,
+      "name": "Are you sprinting power?",
+      "file": "./assets/sounds/Are you sprinting power.ogg"
+  },
+  {
+      "id": 77,
+      "name": "Armoured Dog Please Stop!",
+      "file": "./assets/sounds/ArmouredDogPleaseNo.ogg"
+  },
+  {
+      "id": 54,
+      "name": "Avi Creepy Singing",
+      "file": "./assets/sounds/AviCreepySinging_01.ogg"
+  },
+  {
+      "id": 113,
+      "name": "Awwwhe - Sathy Edition",
+      "file": "./assets/sounds/Awwwwhe-Sathy.ogg"
+  },
+  {
+      "id": 115,
+      "name": "Box",
+      "file": "./assets/sounds/Box.ogg"
+  },
+  {
+      "id": 8,
+      "name": "Bzzzzzt",
+      "file": "./assets/sounds/bzzzzt.ogg"
+  },
+  {
+      "id": 73,
+      "name": "Can Opening Crack Sound",
+      "file": "./assets/sounds/CanCrack.ogg"
+  },
+  {
+      "id": 104,
+      "name": "Cat Purr",
+      "file": "./assets/sounds/catpurr.ogg"
+  },
+  {
+      "id": 128,
+      "name": "Chat will almost always choose death",
+      "file": "./assets/sounds/ChatWillAlmostAlwaysChooseDeath.ogg"
+  },
+  {
+      "id": 3,
+      "name": "Chicken Chicken!",
+      "file": "./assets/sounds/ChickenCHICKEN.ogg"
+  },
+  {
+      "id": 29,
+      "name": "Chicken Noise - Irrigatio",
+      "file": "./assets/sounds/ChickenNoiseIrrigatio.ogg"
+  },
+  {
+      "id": 30,
+      "name": "Chicken Noise - Sathrek",
+      "file": "./assets/sounds/ChickeNoiseSathrek.ogg"
+  },
+  {
+      "id": 92,
+      "name": "Cili Fart",
+      "file": "./assets/sounds/CiliFart.ogg"
+  },
+  {
+      "id": 13,
+      "name": "Cili Monkey Noise",
+      "file": "./assets/sounds/CiliMonkeyNoise.ogg"
+  },
+  {
+      "id": 79,
+      "name": "Cili Scream",
+      "file": "./assets/sounds/CiliScream.ogg"
+  },
+  {
+      "id": 80,
+      "name": "Common Boy!",
+      "file": "./assets/sounds/CommonBoy.ogg"
+  },
+  {
+      "id": 131,
+      "name": "Dibbie Dabbie Doo",
+      "file": "./assets/sounds/DibbeDabbieDoo.ogg"
+  },
+  {
+      "id": 95,
+      "name": "Don't clip that!",
+      "file": "./assets/sounds/DontclipThat.ogg"
+  },
+  {
+      "id": 134,
       "name": "E",
       "file": "./assets/sounds/E.ogg"
   },
   {
-      "id": 3,
-      "name": "And Thats it",
-      "file": "./assets/sounds/AndThatsIt.ogg"
+      "id": 127,
+      "name": "East Side Dodo Gang!",
+      "file": "./assets/sounds/EastSideDodoGang.ogg"
+  },
+  {
+      "id": 109,
+      "name": "And I was like fuck it get the box, got the box",
+      "file": "./assets/sounds/FuckItGetTheBoxGotThebox.ogg"
+  },
+  {
+      "id": 40,
+      "name": "Fuck No Maybe Dunno?",
+      "file": "./assets/sounds/fucknomaybedunno.ogg"
+  },
+  {
+      "id": 1,
+      "name": "Fuck Off Glow",
+      "file": "./assets/sounds/FuckOffGlow.ogg"
+  },
+  {
+      "id": 33,
+      "name": "Fuck Off Sathrek",
+      "file": "./assets/sounds/FuckOffSathrek.ogg"
+  },
+  {
+      "id": 26,
+      "name": "Fuck Off Tyger",
+      "file": "./assets/sounds/FuckOffTyger.ogg"
+  },
+  {
+      "id": 48,
+      "name": "Fuck Yeah!",
+      "file": "./assets/sounds/FuckYeah.ogg"
+  },
+  {
+      "id": 81,
+      "name": "Fuck you, fuck you, fuck you too",
+      "file": "./assets/sounds/FuckYoufuckYouFuckYouToo.ogg"
+  },
+  {
+      "id": 18,
+      "name": "God Damn it Vin",
+      "file": "./assets/sounds/GodDamnItVin.ogg"
+  },
+  {
+      "id": 117,
+      "name": "God Damn It Cara",
+      "file": "./assets/sounds/GodDamntItCara.ogg"
+  },
+  {
+      "id": 82,
+      "name": "Hello It's Me - Cili",
+      "file": "./assets/sounds/HelloItsMeCili.ogg"
+  },
+  {
+      "id": 36,
+      "name": "Hey Check Messages",
+      "file": "./assets/sounds/HeyCheckMessages.ogg"
+  },
+  {
+      "id": 31,
+      "name": "Holy Fuck a Duck",
+      "file": "./assets/sounds/HolyFuckADuck.ogg"
+  },
+  {
+      "id": 49,
+      "name": "Huh.. Yes, maybe.. What?",
+      "file": "./assets/sounds/HuhyesmaybeWhat.ogg"
+  },
+  {
+      "id": 56,
+      "name": "I Didn't do shit!",
+      "file": "./assets/sounds/Ididntdoshit.ogg"
+  },
+  {
+      "id": 110,
+      "name": "Idk where the boxes came from",
+      "file": "./assets/sounds/IdkWhereTheBoxesCameFrom.ogg"
+  },
+  {
+      "id": 111,
+      "name": "I Got Annoyed About It",
+      "file": "./assets/sounds/IGotannoyedaboutit.ogg"
+  },
+  {
+      "id": 62,
+      "name": "I need to pee really badly!",
+      "file": "./assets/sounds/INeedToPeeReallyBadly.ogg"
+  },
+  {
+      "id": 21,
+      "name": "Drink the fucking water - Irrigatio",
+      "file": "./assets/sounds/Irrigatio_DrinkTheFuckingWater.ogg"
+  },
+  {
+      "id": 129,
+      "name": "It's a conspiracy!",
+      "file": "./assets/sounds/ItsAConspirecy.ogg"
+  },
+  {
+      "id": 25,
+      "name": "Its not a my problem its a your problem",
+      "file": "./assets/sounds/Itsnotamyproblemitsayourproblem.ogg"
+  },
+  {
+      "id": 2,
+      "name": "It works! It Fucking works!",
+      "file": "./assets/sounds/ItWorksItWorksItFuckingWorks.ogg"
+  },
+  {
+      "id": 46,
+      "name": "I've Been Stupid!",
+      "file": "./assets/sounds/IveBeenStupid.ogg"
+  },
+  {
+      "id": 65,
+      "name": "Fridge Noise - Irrigatio",
+      "file": "./assets/sounds/MartinFridgeNoise.ogg"
+  },
+  {
+      "id": 106,
+      "name": "Mwiste Stweamer Man",
+      "file": "./assets/sounds/MisterStreamerMan.ogg"
+  },
+  {
+      "id": 37,
+      "name": "Mmmm Mmhhhh HHMMmm",
+      "file": "./assets/sounds/MmmmhmmmmMMHHhh.ogg"
+  },
+  {
+      "id": 123,
+      "name": "Money otherwise fuck you",
+      "file": "./assets/sounds/moneyotherwisefuckyou.ogg"
+  },
+  {
+      "id": 133,
+      "name": "My brain just continued wait..",
+      "file": "./assets/sounds/MyBrainJustContinuedWait.ogg"
+  },
+  {
+      "id": 17,
+      "name": "Nice!",
+      "file": "./assets/sounds/nice.ogg"
+  },
+  {
+      "id": 35,
+      "name": "No no no! - High Pitch Sathy",
+      "file": "./assets/sounds/Nonono_HighPitch.ogg"
+  },
+  {
+      "id": 22,
+      "name": "Nyeeeeeeem POP",
+      "file": "./assets/sounds/NyeeemPOP.ogg"
+  },
+  {
+      "id": 32,
+      "name": "Oh big strong daddy Sath",
+      "file": "./assets/sounds/Oh_Big_Strong_Dady_Sath.ogg"
+  },
+  {
+      "id": 97,
+      "name": "Oh Boy",
+      "file": "./assets/sounds/oh_boy.ogg"
+  },
+  {
+      "id": 114,
+      "name": "Oh For fuck sake - Sathy",
+      "file": "./assets/sounds/OhForFuckSake_part2_Sathy.ogg"
+  },
+  {
+      "id": 47,
+      "name": "Oh fuck you too Pengu",
+      "file": "./assets/sounds/OhfuckyoutooPengu.ogg"
+  },
+  {
+      "id": 78,
+      "name": "Oh My God! - Irrigatio",
+      "file": "./assets/sounds/OhMyGodMartin.ogg"
+  },
+  {
+      "id": 108,
+      "name": "Oh My God! - Sathrek",
+      "file": "./assets/sounds/OhMyGodSathy.ogg"
+  },
+  {
+      "id": 4,
+      "name": "Oh Shit! No no no no no",
+      "file": "./assets/sounds/OhShitNoNononononono.ogg"
+  },
+  {
+      "id": 38,
+      "name": "Oh you cheeky bastard",
+      "file": "./assets/sounds/OhYouCheekyBastard.ogg"
+  },
+  {
+      "id": 107,
+      "name": "OnlyPans",
+      "file": "./assets/sounds/OnlyPans.ogg"
+  },
+  {
+      "id": 5,
+      "name": "On Todays News! Uhh.. Monster!",
+      "file": "./assets/sounds/OnTodaysNewsUhhhMonster.ogg"
+  },
+  {
+      "id": 7,
+      "name": "Pew Pew Pew!",
+      "file": "./assets/sounds/pewpewpew.ogg"
+  },
+  {
+      "id": 61,
+      "name": "Poopy Time! EEHHH",
+      "file": "./assets/sounds/PoopyTimeEEHHH.ogg"
+  },
+  {
+      "id": 118,
+      "name": "Pshh-Sneeze - Sathrek",
+      "file": "./assets/sounds/Pshhh_Sneeze.ogg"
+  },
+  {
+      "id": 105,
+      "name": "Ratatatatata",
+      "file": "./assets/sounds/Ratatatatata.ogg"
+  },
+  {
+      "id": 16,
+      "name": "Minecraft Villager Noise - Sathrek",
+      "file": "./assets/sounds/Sahtrek_HuhHuh(Villager).ogg"
+  },
+  {
+      "id": 15,
+      "name": "What do you mean?",
+      "file": "./assets/sounds/sathy_whatdoyoumean.ogg"
+  },
+  {
+      "id": 9,
+      "name": "7D2D Blade Noise - Sathrek",
+      "file": "./assets/sounds/sathybladenoise.ogg"
+  },
+  {
+      "id": 93,
+      "name": "Fart Noise - Sathrek",
+      "file": "./assets/sounds/SathyFart.ogg"
+  },
+  {
+      "id": 19,
+      "name": "Slurp Sound - Sathrek",
+      "file": "./assets/sounds/SathySlurpSlurpSlurp.ogg"
+  },
+  {
+      "id": 20,
+      "name": "Weird Nom Nom Nom Sound - Sathrek",
+      "file": "./assets/sounds/SathyWeirdNomNomNom.ogg"
+  },
+  {
+      "id": 83,
+      "name": "Scared 01 - Sathrek",
+      "file": "./assets/sounds/ScaredSathyNoise_01.ogg"
+  },
+  {
+      "id": 84,
+      "name": "Scared 02 - Sathrek",
+      "file": "./assets/sounds/ScaredSathyNoise_02.ogg"
+  },
+  {
+      "id": 132,
+      "name": "Scat Man - Sathrek",
+      "file": "./assets/sounds/ScatManSathy.ogg"
+  },
+  {
+      "id": 57,
+      "name": "Schpadoink",
+      "file": "./assets/sounds/Schpadoink.ogg"
+  },
+  {
+      "id": 116,
+      "name": "Seagull Noise - Sathrek",
+      "file": "./assets/sounds/SeagullSathrek.ogg"
+  },
+  {
+      "id": 28,
+      "name": "Short Scream - Sathrek",
+      "file": "./assets/sounds/ShortSathyScream.ogg"
+  },
+  {
+      "id": 85,
+      "name": "Sath Stop it - Irrigatio",
+      "file": "./assets/sounds/StopItSathrek.ogg"
+  },
+  {
+      "id": 122,
+      "name": "Strech your legs boi!",
+      "file": "./assets/sounds/StretchYourLegsBoi.ogg"
+  },
+  {
+      "id": 130,
+      "name": "There is no winning for Rubben",
+      "file": "./assets/sounds/ThereIsNoWinningForRubben.ogg"
+  },
+  {
+      "id": 121,
+      "name": "There's just no run without Steve",
+      "file": "./assets/sounds/Theres_Just_No_Run_Without_Steve.ogg"
+  },
+  {
+      "id": 14,
+      "name": "THICC",
+      "file": "./assets/sounds/THICC.ogg"
+  },
+  {
+      "id": 34,
+      "name": "Ugh Ohh.. Ehhh - Sathrek On Avocado's",
+      "file": "./assets/sounds/Ugghh_ohh_eeehhh.ogg"
+  },
+  {
+      "id": 89,
+      "name": "Weird Scream 01 - Sathrek",
+      "file": "./assets/sounds/Waaaaaaa_SathyWeirdScream.ogg"
+  },
+  {
+      "id": 87,
+      "name": "Wanna check out my meat Cili? - 7D2D Fishing",
+      "file": "./assets/sounds/WannaCheckOutMyMeatCili.ogg"
+  },
+  {
+      "id": 94,
+      "name": "Weeeeeeeeeeeeeeeeeee",
+      "file": "./assets/sounds/Weee Longer.ogg"
+  },
+  {
+      "id": 88,
+      "name": "Weee",
+      "file": "./assets/sounds/Weee.ogg"
+  },
+  {
+      "id": 86,
+      "name": "Weird Scream 02 - Sathrek",
+      "file": "./assets/sounds/WeirdSathyScream.ogg"
+  },
+  {
+    "id": 6,
+    "name": "DingleBerry - Sathrek",
+    "file": "./assets/sounds/DingleBerry.ogg"
+  },
+  {
+      "id": 96,
+      "name": "Whahahaa",
+      "file": "./assets/sounds/whahahaa.ogg"
+  },
+  {
+      "id": 52,
+      "name": "What did you do sath.. - Irrigatio",
+      "file": "./assets/sounds/WhatDidyoudoSath_Irrigatio.ogg"
+  },
+  {
+      "id": 90,
+      "name": "What do you mean? - Cili",
+      "file": "./assets/sounds/WhatDoyouMeanSneakyHelloThere.ogg"
+  },
+  {
+      "id": 91,
+      "name": "[Whisper]: Do you feel it?",
+      "file": "./assets/sounds/whisper_do_you_feel_it.ogg"
+  },
+  {
+      "id": 43,
+      "name": "Why are you trying to kill me!",
+      "file": "./assets/sounds/WhyYouTryingToKillMe.ogg"
+  },
+  {
+      "id": 120,
+      "name": "Witch Laugh - Sathrek",
+      "file": "./assets/sounds/WitchLaughSathy.ogg"
+  },
+  {
+      "id": 12,
+      "name": "With this product, zombies be gone!",
+      "file": "./assets/sounds/WithThisProductZombiesBeGone.ogg"
+  },
+  {
+      "id": 119,
+      "name": "Wooo! God damn!",
+      "file": "./assets/sounds/woooGodDamn.ogg"
+  },
+  {
+      "id": 10,
+      "name": "Yeet",
+      "file": "./assets/sounds/yeet.ogg"
+  },
+  {
+      "id": 45,
+      "name": "You know what time it is",
+      "file": "./assets/sounds/Youknowwhattimeitis.ogg"
+  },
+  {
+      "id": 24,
+      "name": "You no take candle!",
+      "file": "./assets/sounds/YouNoTakeCandle.ogg"
+  },
+  {
+      "id": 27,
+      "name": "Zomb Zomb From Behind",
+      "file": "./assets/sounds/ZombZombFromBehind.ogg"
   }
 ]
