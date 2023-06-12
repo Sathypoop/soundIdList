@@ -1,10 +1,5 @@
 [
   {
-      "id": 1,
-      "name": "Aaaaaahhhh Boom",
-      "file": "./assets/sounds/ahhhhhhboom.ogg"
-  },
-  {
       "id": 53,
       "name": "All Is Lost",
       "file": "./assets/sounds/AllIsLost.ogg"
