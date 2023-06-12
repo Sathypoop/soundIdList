@@ -1,0 +1,17 @@
+[
+  {
+      "id": 1,
+      "name": "Weeee",
+      "file": "./assets/sounds/Weee.ogg"
+  },
+  {
+      "id": 2,
+      "name": "E",
+      "file": "./assets/sounds/E.ogg"
+  },
+  {
+      "id": 3,
+      "name": "And Thats it",
+      "file": "./assets/sounds/AndThatsIt.ogg"
+  }
+]
